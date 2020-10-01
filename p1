@@ -1,4 +1,4 @@
-import java.aw*;  
+import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;  
 class TTT1 extends JFrame implements ItemListener, ActionListener{  
